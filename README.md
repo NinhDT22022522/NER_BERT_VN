@@ -19,3 +19,10 @@ Data có dạng:
 | Hà    | Np  | B-NP  | B-LOC|
 | Nội   | Np  | I-NP  | I-LOC|
 | .     | CH  | O     | O    |
+
+## Model
+
+Bạn có thể thử nghiệm các mô hình sau khi tôi huấn luyện:
+1. PhoBERT: DrRinS/NER-PhoBERT
+2. PhoBERTv2: DrRinS/NER-PhoBERTv2
+3. Multilingual BERT: DrRinS/NER_MultilingualBERT
