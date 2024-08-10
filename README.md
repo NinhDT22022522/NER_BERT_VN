@@ -3,6 +3,8 @@
 ## Introduction
 Dự án này thử nghiệm các mô hình BERT xây dựng mô hình cho tác vụ nhận diện thực thể (NER)
 
+Dự án sử dụng Kaggle notebook để thực hiện
+
 ## Data
 Data có dạng:
 | Word  | POS | Chunk | NER  |
